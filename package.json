@@ -1,0 +1,36 @@
+{
+  "name": "dashgo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@hookform/resolvers": "^2.9.11",
+    "@types/react-dom": "18.0.11",
+    "apexcharts": "^3.37.1",
+    "axios": "^1.3.4",
+    "next": "13.2.3",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.5",
+    "react-icons": "^4.8.0",
+    "react-query": "^3.39.3",
+    "yarn": "^1.22.19",
+    "yup": "^1.0.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^6.6.9",
+    "@types/node": "^18.14.6",
+    "@types/react": "^18.0.28",
+    "faker": "^6.6.6",
+    "miragejs": "^0.1.47",
+    "typescript": "^4.9.5"
+  }
+}
